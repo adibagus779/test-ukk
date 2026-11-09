@@ -1,5 +1,5 @@
 # test-ukk
 
-tinggal extract + import database
+tinggal extract di htdocs + import database
 
-kalo gabisa = skill issue
+kalo gabisa == skill issue
